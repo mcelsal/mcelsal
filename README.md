@@ -44,8 +44,8 @@ Phaser + Ionic game with shooting mechanics, collisions, scoring and localStorag
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/TUUSUARIO
-- GitHub: https://github.com/TUUSUARIO
+- LinkedIn: www.linkedin.com/in/maría-celemín-salazar
+- GitHub: https://github.com/mcelsal
 
 ---
 
