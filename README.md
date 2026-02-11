@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Maria 👋
 
-<!--
-**mcelsal/mcelsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 DAM Student (Multiplatform Application Development)  
+💻 Interested in Android, Backend and Web Development  
+🚀 Currently building projects and looking for an internship  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages**
+- Kotlin
+- Java
+- PHP
+- C#
+- JavaScript
+- SQL
+
+**Technologies**
+- Android (Jetpack Compose)
+- Laravel
+- MySQL / MongoDB
+- Git / GitHub
+- REST APIs
+- MVC Architecture
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Android SpaceX App**  
+Kotlin + Jetpack Compose app using SpaceX API with offline Room database, MVVM and UI states.
+
+🔹 **Laravel CRUD - LS Shop**  
+Full CRUD web application with MySQL, filtering, sorting and MVC architecture.
+
+🔹 **Hospital Management (C#)**  
+Multithreading console simulation with queues, synchronization and patient priority system.
+
+🔹 **Space Arcade Game**  
+Phaser + Ionic game with shooting mechanics, collisions, scoring and localStorage persistence.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/TUUSUARIO
+- GitHub: https://github.com/TUUSUARIO
+
+---
+
+⭐ Always learning, always building.
